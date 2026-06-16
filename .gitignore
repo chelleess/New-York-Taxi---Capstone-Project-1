@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+logs/*.log
+
+data/raw/
+data/transformed/
+
+data/mart/*.csv
+data/mart_cleaned/*.csv
+data/mart_cleaned/*.txt
